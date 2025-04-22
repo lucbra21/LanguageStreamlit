@@ -1,0 +1,16 @@
+{
+    "es": {
+        "welcome_message": "Bienvenido a la aplicación",
+        "description": "Esta es una aplicación de ejemplo con soporte de múltiples idiomas.",
+        "choose_option": "Elige una opción:",
+        "button_text": "Enviar",
+        "footer_note": "Gracias por usar nuestra aplicación."
+    },
+    "en": {
+        "welcome_message": "Welcome to the application",
+        "description": "This is a sample application with multi-language support.",
+        "choose_option": "Choose an option:",
+        "button_text": "Submit",
+        "footer_note": "Thank you for using our application."
+    }
+}
